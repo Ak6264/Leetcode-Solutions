@@ -5,3 +5,4 @@ My LeetCode and DSA practice solutions in C++
 ## Basics
 - 2235 - Add Two Integers
 - 1523 - Count Odd Numbers in an Interval Range
+- 2119 - A Number After a Double Reversal
