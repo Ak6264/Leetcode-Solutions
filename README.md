@@ -7,3 +7,4 @@ My LeetCode and DSA practice solutions in C++
 - 1523 - Count Odd Numbers in an Interval Range
 - 2119 - A Number After a Double Reversal
 - 1281 - Subtract the Product and Sum of Digits of an Integer
+- 9 - Palindrome Number (121 , 12321)
